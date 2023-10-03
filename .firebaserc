@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "reactbootcamp-ca",
+    "production": "utility-social"
+  },
+  "targets": {},
+  "etags": {}
+}

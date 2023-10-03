@@ -1,0 +1,11 @@
+.editor-input {
+    color: gray !important;
+}
+.editor-input:focus {
+    color: rgba(245, 222, 179, .9) !important; /*wheat*/
+}
+@media screen and (max-width: 450px) {
+    .editor-input {
+        font-size: 14px !important;
+    }
+}
